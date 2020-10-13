@@ -1,0 +1,19 @@
+body{
+	background-color: white;
+}
+#header{
+	background-color: yellow;
+	height: 200px;
+	width: 1000px;
+}
+#main1{
+	background-color: blue;
+	height: 600px;
+	width: 1000px;
+}
+#main2{
+	background-color: yellow;
+	height: 600px;
+	width: 200px;
+	margin: 0 auto;
+}
